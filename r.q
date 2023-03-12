@@ -1,3 +1,4 @@
+/Change 2 remote
 /q tick/r.q [host]:port[:usr:pwd] [host]:port[:usr:pwd]
 /2008.09.09 .k ->.q
 \c 20 200
